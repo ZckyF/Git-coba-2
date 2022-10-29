@@ -9,5 +9,10 @@
 <body>
     <h1>Hello Bang</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore nulla accusamus tempora et eveniet quos voluptate ut saepe. Tempore nam ad, dolorum cum consectetur minus recusandae nihil eum dolores atque?</p>
+
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
